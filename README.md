@@ -18,6 +18,18 @@ The roadmap is constructed in accordance with the following four guidelines:
 
 **[7]** He, Kaiming, et al. "**Deep residual learning for image recognition**." arXiv preprint arXiv:1512.03385 (2015). [[pdf]](https://arxiv.org/pdf/1512.03385.pdf) **(ResNet,Very very deep networks, CVPR best paper)** :star::star::star::star::star:
 
+**[8]** 2016----SqueezeNet- AlexNet-level accuracy with 50x fewer parameters and 0.5MB model size
+https://zhuanlan.zhihu.com/p/49465950
+
+**[9]** 2017----CVPR----ShuffleNet_An Extremely Efficient Convolutional Neural Network for Mobile Devices.
+https://blog.csdn.net/u014380165/article/details/75137111
+
+**[10]** 2017----MobileNetV1_Efficient Convolutional Neural Networks for Mobile Vision Applications
+https://zhuanlan.zhihu.com/p/31200150
+**[10_1]** 2018----MobileNetV2----Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation
+https://zhuanlan.zhihu.com/p/33052910
+**[11]** 2018----MnasNet: Platform-Aware Neural Architecture Search for Mobile
+https://zhuanlan.zhihu.com/p/42474017
 
 ## 3.2 Object Detection
 
